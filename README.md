@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Saad  
 
-<!--
-**SaadAzeem595/SaadAzeem595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science | Cloud-Native | Full-Stack Developer | BSCS Student  
 
-Here are some ideas to get you started:
+I’m passionate about building **intelligent, data-driven, and future-ready applications**.  
+With a background in **Artificial Intelligence, Machine Learning, Data Science, Cloud-Native, and Full-Stack Development**, I love blending innovation with code to solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Based in Pakistan 🇵🇰  
+🎓 BSCS Student (2023–2027) at Federal Urdu University  
+🧠 Learning & growing in **Agentic AI**  
+🚀 Exploring **Data Science projects, ML models, and interactive dashboards**  
+
+---
+
+## 🛠️ Skills  
+
+### Languages and Tools:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+</p>
+
+✨ Always open to collaboration in **AI, Data Science, Data Analytics**  
+📫 Reach me at: *[www.linkedin.com/in/saad-azeem-8941bb317]*  
