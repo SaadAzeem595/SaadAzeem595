@@ -1,13 +1,18 @@
-## Hi there 👋 I'm Saad Azeem 
-### Certified Data Scientist | Certified AI/ML Engineer | BSCS Student
+## 👋 Hi, I'm Saad Azeem
+### 🚀 Certified Data Scientist | Certified AI/ML Engineer | BSCS Student
 
-I build intelligent, scalable, and real-world AI solutions.
-With a strong academic foundation in Computer Science and hands-on experience in Machine Learning, NLP, Data Analytics, and Cloud technologies, I focus on transforming data into actionable insights and production-ready applications.
-Currently exploring Agentic AI, LLMs, RAG systems, and Advanced Data Engineering while strengthening my expertise in ML/DL and system design.
-🎓 BSCS Student (2023–2027) at Federal Urdu University
-🧠 Continuously learning and growing in Agentic AI, NLP, and Advanced Data Analytics
-🚀 Exploring Data Science projects, ML/DL models, and interactive dashboards
+I design and build intelligent, scalable, and real-world AI solutions.
 
+With a strong foundation in Computer Science and hands-on experience in Machine Learning, NLP, Data Analytics, and Cloud Technologies, I focus on transforming data into actionable insights and production-ready applications.
+
+Currently exploring Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Advanced Data Engineering, while continuously strengthening my expertise in ML/DL, system design, and scalable AI deployment.
+
+### 🎓 BS Computer Science (2023–2027)
+Federal Urdu University of Arts, Science and Technology
+
+🧠 Passionate about AI Research, NLP Systems, and Advanced Analytics
+
+🚀 Building Data Science projects, ML/DL models, and interactive dashboards
 ## 🛠️ Skills
 ### Languages and Tools:
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Microsoft Azure" width="40" height="40"/> <img <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" alt="Google Cloud" width="40" height="40"/>
@@ -27,7 +32,7 @@ NLP Question-Answering System – Implemented a transformer-based QA model to an
 
 Digit Recognition Project – Built a handwritten digit recognition model using TensorFlow/Keras, achieving high accuracy on the MNIST dataset.
 
-### 🎓 Relevant Coursework & Certifications
+### 🎓 Certifications
 
 Microsoft AI/ML Engineer
 Focused on Supervised & Unsupervised Learning, Deep Learning (CNNs, RNNs), model evaluation, and deployment fundamentals.
