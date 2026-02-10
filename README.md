@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Saad Azeem 
 ### Certified Data Scientist | Certified AI/ML Engineer | BSCS Student
 
-I’m passionate about building intelligent, data-driven, and future-ready applications.
-With a solid foundation in Artificial Intelligence, Machine Learning, Data Science, and Software Development, I enjoy blending innovation with code to solve real-world problems.
-
+I build intelligent, scalable, and real-world AI solutions.
+With a strong academic foundation in Computer Science and hands-on experience in Machine Learning, NLP, Data Analytics, and Cloud technologies, I focus on transforming data into actionable insights and production-ready applications.
+Currently exploring Agentic AI, LLMs, RAG systems, and Advanced Data Engineering while strengthening my expertise in ML/DL and system design.
 🎓 BSCS Student (2023–2027) at Federal Urdu University
 🧠 Continuously learning and growing in Agentic AI, NLP, and Advanced Data Analytics
 🚀 Exploring Data Science projects, ML/DL models, and interactive dashboards
@@ -21,21 +21,25 @@ Here are some highlights from my recent work and courses:
 
 ### Data Science & ML Projects
 
-NYC Taxi Fare Prediction – Built a regression model using Python, Pandas, and Scikit-learn to predict taxi fares and deployed it via Streamlit.
-
 SpaceX Launch Dashboard – Created an interactive dashboard using Plotly and Folium to visualize historical launches and predict mission success.
 
 NLP Question-Answering System – Implemented a transformer-based QA model to answer questions from a given text.
 
 Digit Recognition Project – Built a handwritten digit recognition model using TensorFlow/Keras, achieving high accuracy on the MNIST dataset.
 
-### Relevant Courses
+### 🎓 Relevant Coursework & Certifications
 
-Artificial Intelligence & Machine Learning – Supervised/Unsupervised learning, Neural Networks, NLP, and Deep Learning.
+Microsoft AI/ML Engineer
+Focused on Supervised & Unsupervised Learning, Deep Learning (CNNs, RNNs), model evaluation, and deployment fundamentals.
 
-Data Science & Analytics – Python, R, SQL, Data Cleaning, Visualization, and Statistical Modeling.
+IBM Data Science & Google Advanced Data Analytics
+Comprehensive training in Python, R, SQL, Data Wrangling, Exploratory Data Analysis (EDA), Data Visualization, and Statistical Modeling.
 
-Advanced Data Management – Database design, SQL queries, and optimization techniques.
+Meta Full Stack Web Development
+Front-end and back-end development, modern web technologies, APIs, and application deployment.
+
+Advanced Data Management
+Database design principles, complex SQL queries, indexing strategies, and performance optimization techniques.
 
 ## 📈 Achievements
 
