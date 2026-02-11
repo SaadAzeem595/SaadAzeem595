@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Saad Azeem
-### 🚀 Certified Data Scientist | Certified AI/ML Engineer | BSCS Student
+### 🚀 Certified AI/ML Engineer | Certified Data Scientist | BSCS Student
 
 I design and build intelligent, scalable, and real-world AI solutions.
 
@@ -26,25 +26,43 @@ Here are some highlights from my recent work and courses:
 
 ### Data Science & ML Projects
 
-SpaceX Launch Dashboard – Created an interactive dashboard using Plotly and Folium to visualize historical launches and predict mission success.
+🚀 SpaceX Launch Dashboard
 
-NLP Question-Answering System – Implemented a transformer-based QA model to answer questions from a given text.
+Developed an interactive analytics dashboard using Plotly and Folium to visualize historical launch data, perform exploratory analysis, and build a predictive model to estimate mission success probability.
 
-Digit Recognition Project – Built a handwritten digit recognition model using TensorFlow/Keras, achieving high accuracy on the MNIST dataset.
+🤖 NLP Question-Answering System
+
+Implemented a transformer-based Question Answering model capable of extracting context-aware answers from text using modern NLP techniques.
+
+🔢 Handwritten Digit Recognition
+
+Built a deep learning model using TensorFlow/Keras (CNN architecture) to classify handwritten digits, achieving high accuracy on the MNIST dataset.
+
+🧠 Smart GenAI Web Assistant
+
+Designed and deployed a Flask-based AI web assistant powered by Large Language Models (LLMs) to generate structured responses, summaries, and action items with a user-friendly interface.
+
+📚 RAG Vector Search Chatbot
+
+Developed a Retrieval-Augmented Generation (RAG) chatbot integrating vector embeddings and semantic search to retrieve relevant knowledge base documents and generate accurate, context-aware responses.
 
 ### 🎓 Certifications
 
-Microsoft AI/ML Engineer
-Focused on Supervised & Unsupervised Learning, Deep Learning (CNNs, RNNs), model evaluation, and deployment fundamentals.
+🧠 Microsoft AI/ML Engineer
 
-IBM Data Science & Google Advanced Data Analytics
+Focused on Supervised & Unsupervised Learning, Deep Learning (CNNs, RNNs), model evaluation, model optimization, and deployment fundamentals.
+
+📊 IBM Data Science & Google Advanced Data Analytics
+
 Comprehensive training in Python, R, SQL, Data Wrangling, Exploratory Data Analysis (EDA), Data Visualization, and Statistical Modeling.
 
-Meta Full Stack Web Development
-Front-end and back-end development, modern web technologies, APIs, and application deployment.
+💻 Meta Full Stack Web Development
 
-Advanced Data Management
-Database design principles, complex SQL queries, indexing strategies, and performance optimization techniques.
+Front-end and back-end development, modern web technologies, REST APIs, database integration, and full application deployment.
+
+🤖 DeepLearning.AI – Natural Language Processing (Coursera)
+
+Advanced NLP techniques including tokenization, word embeddings, sequence models, attention mechanisms, transformers, and real-world NLP applications using modern deep learning frameworks.
 
 ## 📈 Achievements
 
