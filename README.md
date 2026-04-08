@@ -32,8 +32,6 @@ Federal Urdu University of Arts, Science and Technology
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/langchain/langchain.png" alt="LangChain" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/159187126?s=200&v=4" alt="LangGraph" width="40" height="40"/>
 </p>
 
 ## 💻 Projects & Coursework
