@@ -1,16 +1,18 @@
 ## 👋 Hi, I'm Saad Azeem
-### 🚀 Certified AI/ML Engineer | Certified Data Scientist | BSCS Student
 
-I design and build intelligent, scalable, and real-world AI solutions.
+### 🚀 AI/ML Engineer | Data Science Enthusiast | BSCS Student
 
-With a strong foundation in Computer Science and hands-on experience in Machine Learning, NLP, Data Analytics, and Cloud Technologies, I focus on transforming data into actionable insights and production-ready applications.
+I build **AI-powered applications using Machine Learning, NLP, and Large Language Models (LLMs)** with a focus on real-world problem solving.
 
-Currently exploring Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Advanced Data Engineering, while continuously strengthening my expertise in ML/DL, system design, and scalable AI deployment.
+My work includes developing **Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, intelligent chatbots, and data-driven dashboards**. I enjoy designing systems that combine **data, models, and scalable architectures** to deliver practical solutions.
+
+Currently, I am exploring **Agentic AI, LangGraph workflows, LLMOps, and advanced data engineering**, while strengthening my skills in **ML/DL, cloud technologies, and AI system design**.
 
 ### 🎓 BS Computer Science (2023–2027)
+
 Federal Urdu University of Arts, Science and Technology
 
-🚀 Passionate about Data Science, AI/ML, LLMOps, AI Research, NLP Systems, and Advanced Analytics and building real-world intelligent applications
+🚀 Passionate about **AI/ML, LLMs, NLP systems, Data Science, and building impactful intelligent applications**
 
 ## 🛠️ Skills
 ### Languages and Tools:
