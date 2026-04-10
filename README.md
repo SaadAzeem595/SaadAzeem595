@@ -12,10 +12,7 @@ Federal Urdu University of Arts, Science and Technology
 
 🧠 Passionate about AI Research, NLP Systems, and Advanced Analytics
 
-🚀 Building Data Science projects, ML/DL models, and interactive dashboards
-## 🛠️ Skills
-### Languages and Tools:
-🚀 Building Data Science projects, ML/DL models, LLM applications, and interactive dashboards
+🚀 Passionate about Data Science, AI/ML, LLMOps, AI Research, NLP Systems, and Advanced Analytics and building real-world intelligent applications
 
 ## 🛠️ Skills
 ### Languages and Tools:
