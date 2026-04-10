@@ -52,29 +52,78 @@ Federal Urdu University of Arts, Science and Technology
 
 ## 💻 Projects & Coursework
 
-Here are some highlights from my recent work and courses:
+Here are some highlights from my recent work and advanced AI/ML projects:
 
-### Data Science & ML Projects
+### 🤖 Agentic AI & RAG Systems
 
-🚀 SpaceX Launch Dashboard
+🧠 **Agentic RAG Assistant (LangGraph + LangChain)**
 
-Developed an interactive analytics dashboard using Plotly and Folium to visualize historical launch data, perform exploratory analysis, and build a predictive model to estimate mission success probability.
+* Built an **agent-based intelligent system** using LangGraph for multi-step reasoning and task orchestration
+* Integrated tools like **document retrieval, summarization, and Q&A pipelines**
+* Designed dynamic workflows enabling autonomous decision-making and context-aware responses
 
-🤖 NLP Question-Answering System
+📚 **Advanced RAG Vector Search Chatbot**
 
-Implemented a transformer-based Question Answering model capable of extracting context-aware answers from text using modern NLP techniques.
+* Developed a scalable **Retrieval-Augmented Generation (RAG)** system using embeddings and vector databases
+* Implemented **semantic search** for accurate knowledge retrieval
+* Enhanced response quality using LLMs with context injection and prompt engineering
 
-🔢 Handwritten Digit Recognition
+---
 
-Built a deep learning model using TensorFlow/Keras (CNN architecture) to classify handwritten digits, achieving high accuracy on the MNIST dataset.
+### 🩺 AI in Healthcare & Nutrition
 
-🧠 Smart GenAI Web Assistant
+🥗 **AI Nutrition Recommendation System**
 
-Designed and deployed a Flask-based AI web assistant powered by Large Language Models (LLMs) to generate structured responses, summaries, and action items with a user-friendly interface.
+* Built an intelligent system that generates **personalized diet plans** based on user inputs
+* Applied LLMs and rule-based logic for **health-aware recommendations**
+* Focused on real-world usability and structured output generation
 
-📚 RAG Vector Search Chatbot
+🩺 **Medical Document Chat (DocChat AI)**
 
-Developed a Retrieval-Augmented Generation (RAG) chatbot integrating vector embeddings and semantic search to retrieve relevant knowledge base documents and generate accurate, context-aware responses.
+* Developed a **document-based AI assistant** for querying medical reports and PDFs
+* Integrated **RAG pipeline** for extracting and summarizing domain-specific information
+* Enabled accurate, context-driven answers from uploaded documents
+
+---
+
+### 📊 Data Science & Machine Learning
+
+🚀 **SpaceX Launch Analytics Dashboard**
+
+* Built an interactive dashboard using **Plotly Dash & Folium**
+* Performed exploratory data analysis and geospatial visualization
+* Developed a **machine learning model** to predict launch success
+
+🔢 **Handwritten Digit Recognition (CNN)**
+
+* Designed a **deep learning CNN model** using TensorFlow/Keras
+* Achieved high accuracy on the MNIST dataset
+* Applied preprocessing and model optimization techniques
+
+---
+
+### 🤖 NLP & Generative AI
+
+💬 **NLP Question Answering System**
+
+* Implemented a **transformer-based QA system** for extracting answers from text
+* Applied modern NLP techniques for contextual understanding
+
+🧠 **Smart GenAI Web Assistant**
+
+* Built a **Flask-based AI assistant** powered by LLM APIs
+* Implemented features like **summarization, Q&A, and structured outputs**
+* Designed a user-friendly interface for real-time interaction
+
+---
+
+### ⚙️ LLMOps & AI Engineering Practice
+
+🚀 **RAG & Agentic AI Practice Repository**
+
+* Hands-on implementations using **LangChain, LangGraph, CrewAI, and vector databases**
+* Explored **multi-agent workflows, tool usage, and orchestration**
+* Built modular pipelines for real-world AI applications
 
 ### 🎓 Certifications
 
