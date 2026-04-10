@@ -10,8 +10,6 @@ Currently exploring Agentic AI, Large Language Models (LLMs), Retrieval-Augmente
 ### 🎓 BS Computer Science (2023–2027)
 Federal Urdu University of Arts, Science and Technology
 
-🧠 Passionate about AI Research, NLP Systems, and Advanced Analytics
-
 🚀 Passionate about Data Science, AI/ML, LLMOps, AI Research, NLP Systems, and Advanced Analytics and building real-world intelligent applications
 
 ## 🛠️ Skills
