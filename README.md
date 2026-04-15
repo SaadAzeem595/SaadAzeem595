@@ -54,7 +54,6 @@ Federal Urdu University of Arts, Science and Technology
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></td>
 <td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>
-<td></td>
 </tr>
 </table>
 
