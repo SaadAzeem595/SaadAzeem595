@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Saad Azeem
 
-### 🚀 AI/ML Engineer | Data Science Enthusiast | BSCS Student
-
+### 🚀 AI/ML Engineer | LLM & RAG Developer | BSCS Student
 I build **AI-powered applications using Machine Learning, NLP, and Large Language Models (LLMs)** with a focus on real-world problem solving.
 
 My work includes developing **Agentic AI systems, Retrieval-Augmented Generation (RAG) pipelines, intelligent chatbots, and data-driven dashboards**. I enjoy designing systems that combine **data, models, and scalable architectures** to deliver practical solutions.
