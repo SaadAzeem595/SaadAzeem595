@@ -49,7 +49,7 @@ Federal Urdu University of Arts, Science and Technology
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="40"/></td>
 </tr>
-
+</table>
 ## 💻 Projects & Coursework
 
 Here are some highlights from my recent work and advanced AI/ML projects:
