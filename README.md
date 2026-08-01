@@ -27,42 +27,22 @@ Federal Urdu University of Arts, Science and Technology
 </table>
 
 ### 🧰 Tools & Frameworks
-
-
-<table>  
-<tr>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/></td>  
-<td><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40"/></td>  
-<td><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="40"/></td>  
-<td><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/></td>  
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td>  
-</tr>  
-<tr>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></td>  
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/></td>  
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/></td>  
-<td><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/></td>  
-</tr>  
- 
-<tr>
-
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
-
-
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></td>
-</tr>
-</table>
+🤖 AI & LLM Frameworks
+<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br/>CrewAI </td> <td align="center"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face </td> <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45"/><br/>LiteLLM </td> <td align="center"> <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="45"/><br/>LangGraph </td> <td align="center"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API </td> <td align="center"> <img src="https://ollama.com/public/ollama.png" width="45"/><br/>Ollama </td> </tr> </table>
+🌐 Backend & APIs
+<table> <tr> <td align="center"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="45"/><br/>Flask </td> <td align="center"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/><br/>FastAPI </td> <td align="center"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br/>REST API </td> </tr> </table>
+🗄️ Database
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB </td> </tr> </table>
+🔐 Authentication & Payments
+<table> <tr> <td align="center"> <img src="https://clerk.com/images/logos/clerk-logo-icon.svg" width="45"/><br/>Clerk </td> <td align="center"> <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="45"/><br/>Stripe </td> </tr> </table>
+☁️ Deployment & DevOps
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker </td> <td align="center"> <img src="https://railway.app/brand/logo-light.png" width="45"/><br/>Railway </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub Actions </td> </tr> </table>
+💻 Development Tools
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br/>Git </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter </td> </tr> </table>
+🐧 Operating System
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br/>Linux </td> </tr> </table>
+📊 Machine Learning Libraries (Used previously in your AI projects)
+<table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br/>Scikit-learn </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch </td> </tr> </table>
 
 ### 💻 Projects & Coursework
 
