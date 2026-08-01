@@ -44,6 +44,7 @@ Federal Urdu University of Arts, Science and Technology
 📊 Machine Learning Libraries (Used previously in your AI projects)
 <table> <tr> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br/>Scikit-learn </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow </td> <td align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch </td> </tr> </table>
 
+
 ### 💻 Projects & Coursework
 
 Here are some highlights from my recent work and advanced AI/ML projects:
