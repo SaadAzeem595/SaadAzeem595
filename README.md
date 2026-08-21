@@ -171,6 +171,31 @@ Federal Urdu University of Arts, Science and Technology
 
 Here are some highlights from my recent work and advanced AI/ML projects:
 
+### 🚀 Production-Ready AI SaaS Applications
+
+🥗 **AI Nutrition Coach — Production-Ready Multi-Agent AI SaaS**
+
+* Built a production-ready **AI-powered nutrition coaching platform** using CrewAI and multimodal LLMs
+* Implemented multi-agent workflows for **food image analysis, ingredient detection, dietary restriction filtering, nutrition analysis, and recipe generation**
+* Integrated **Clerk authentication** and **Stripe subscription payments** for a complete SaaS experience
+* Developed REST APIs with **Flask** and integrated LLM-powered AI services for real-time analysis
+* Containerized the application with **Docker** and deployed it to **Microsoft Azure**
+* Designed the system with production-focused practices including authentication, subscription management, API integration, and cloud deployment
+
+📊 **AI DataPilot — AI-Powered Data Science & Business Intelligence SaaS**
+
+* Built a production-ready **AI data analytics and business intelligence platform** combining Data Science, Generative AI, and AI Engineering practices
+* Developed intelligent workflows for **dataset analysis, KPI analytics, forecasting, segmentation, anomaly detection, and predictive insights**
+* Implemented an **AI Chat / Natural Language Data Analyst** capable of interacting with datasets and generating data-driven insights
+* Built **SQL Agent and RAG-powered workflows** using LangGraph, vector search, embeddings, and intelligent tool orchestration
+* Integrated **ChromaDB and Pinecone** for vector storage and semantic retrieval
+* Developed backend services using **FastAPI**, PostgreSQL, DuckDB, and REST APIs
+* Implemented production engineering practices including **JWT authentication, rate limiting, Redis caching, OpenTelemetry, Prometheus monitoring, Sentry error tracking, structured logging, and automated testing**
+* Built the frontend using **Next.js, TypeScript, Tailwind CSS, shadcn/ui, React Query, and Recharts**
+* Applied AI Engineering concepts including **LLM orchestration, RAG, agentic workflows, observability, evaluation, API architecture, and production deployment**
+
+---
+
 ### 🤖 Agentic AI & RAG Systems
 
 🧠 **Agentic RAG Assistant (LangGraph + LangChain)**
@@ -189,16 +214,10 @@ Here are some highlights from my recent work and advanced AI/ML projects:
 
 ### 🩺 AI in Healthcare & Nutrition
 
-🥗 **AI Nutrition Recommendation System**
-
-* Built an intelligent system that generates **personalized diet plans** based on user inputs
-* Applied LLMs and rule-based logic for **health-aware recommendations**
-* Focused on real-world usability and structured output generation
-
 🩺 **Medical Document Chat (DocChat AI)**
 
 * Developed a **document-based AI assistant** for querying medical reports and PDFs
-* Integrated **RAG pipeline** for extracting and summarizing domain-specific information
+* Integrated a **RAG pipeline** for extracting and summarizing domain-specific information
 * Enabled accurate, context-driven answers from uploaded documents
 
 ---
@@ -241,6 +260,7 @@ Here are some highlights from my recent work and advanced AI/ML projects:
 * Hands-on implementations using **LangChain, LangGraph, CrewAI, and vector databases**
 * Explored **multi-agent workflows, tool usage, and orchestration**
 * Built modular pipelines for real-world AI applications
+* Practiced **LLMOps, observability, evaluation, API integration, deployment, and production-oriented AI engineering**
 
 ### 🎓 Certifications
 
