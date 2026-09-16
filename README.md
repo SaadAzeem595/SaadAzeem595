@@ -212,7 +212,7 @@ Here are some highlights from my recent work and advanced AI/ML projects:
 
 ---
 
-### 🩺 AI in Healthcare & Nutrition
+### 🩺 AI in Healthcare
 
 🩺 **Medical Document Chat (DocChat AI)**
 
