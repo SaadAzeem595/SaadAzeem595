@@ -42,7 +42,7 @@ Federal Urdu University of Arts, Science and Technology
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" alt="LangChain"/><br/>LangChain</td>
 <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face</td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/img/litellm_logo.png" width="45" alt="LiteLLM"/><br/>LiteLLM</td>
+<img src="https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/img/litellm_logo.png" width="35" alt="LiteLLM"/><br/>LiteLLM</td>
 </tr>
 <tr>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API</td>
