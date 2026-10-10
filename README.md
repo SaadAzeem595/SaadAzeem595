@@ -36,13 +36,12 @@ Federal Urdu University of Arts, Science and Technology
 <table>
 <tr>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br/>CrewAI</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="45" alt="LangGraph"/><br/>LangGraph</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" alt="LangChain"/><br/>LangChain</td>
+<td align="center"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="45" alt="LangGraph"/><br/>LangGraph</td>
+<td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" alt="LangChain"/><br/>LangChain</td>
 <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face</td>
-<td align="center">
 <td align="center"><strong>LiteLLM</strong></td>
+</tr>
+<tr>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API</td>
 <td align="center"><img src="https://ollama.com/public/ollama.png" width="45"/><br/>Ollama</td>
 <td align="center">OpenRouter</td>
