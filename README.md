@@ -36,10 +36,13 @@ Federal Urdu University of Arts, Science and Technology
 <table>
 <tr>
 <td align="center"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br/>CrewAI</td>
-<td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="45"/><br/>LangGraph</td>
-<td align="center"><img src="https://python.langchain.com/img/brand/wordmark.png" width="45"/><br/>LangChain</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="45" alt="LangGraph"/><br/>LangGraph</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" alt="LangChain"/><br/>LangChain</td>
 <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face</td>
-<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45"/><br/>LiteLLM</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my-website/img/litellm_logo.png" width="45" alt="LiteLLM"/><br/>LiteLLM</td>
 </tr>
 <tr>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API</td>
@@ -96,7 +99,8 @@ Federal Urdu University of Arts, Science and Technology
 
 <table>
 <tr>
-<td align="center"><img src="https://clerk.com/images/logos/clerk-logo-icon.svg" width="45"/><br/>Clerk</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/clerk/6C47FF" width="45" alt="Clerk"/><br/>Clerk</td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="45"/><br/>Stripe</td>
 </tr>
 </table>
