@@ -14,157 +14,24 @@ Federal Urdu University of Arts, Science and Technology
 🚀 Passionate about **AI/ML, LLMs, NLP systems, Data Science, and building impactful intelligent applications**
 
 ## 🛠️ Skills
+
 ### 💻 Languages
+
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/><br/>R</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/><br/>MySQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML5</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS3</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td>
 </tr>
 </table>
 
 ### 🧰 Tools & Frameworks
 
-#### 🤖 AI & LLM Frameworks
-
-<table>
-<tr>
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br/>CrewAI
-</td>
-<td align="center">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45"/><br/>LiteLLM
-</td>
-<td align="center">
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="45"/><br/>LangGraph
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API
-</td>
-<td align="center">
-<img src="https://ollama.com/public/ollama.png" width="45"/><br/>Ollama
-</td>
-</tr>
-</table>
-
-#### 🌐 Backend & APIs
-
-<table>
-<tr>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="45"/><br/>Flask
-</td>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/><br/>FastAPI
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br/>REST API
-</td>
-</tr>
-</table>
-
-#### 🗄️ Database & Vector Stores
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB
-</td>
-<td align="center">
-<img src="https://www.trychroma.com/_next/image?url=%2Fchroma-logo.svg&w=256&q=75" width="45"/><br/>ChromaDB
-</td>
-<td align="center">
-<img src="https://avatars.githubusercontent.com/u/50197038?s=200&v=4" width="45"/><br/>Pinecone
-</td>
-</tr>
-</table>
-
-#### 🔐 Authentication & Payments
-
-<table>
-<tr>
-<td align="center">
-<img src="https://clerk.com/images/logos/clerk-logo-icon.svg" width="45"/><br/>Clerk
-</td>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="45"/><br/>Stripe
-</td>
-</tr>
-</table>
-
-#### ☁️ Deployment & DevOps
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker
-</td>
-<td align="center">
-<img src="https://azure.microsoft.com/svghandler/azure-logo/?width=80&height=80" width="45"/><br/>Microsoft Azure
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub Actions
-</td>
-</tr>
-</table>
-
-#### 💻 Development Tools
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br/>Git
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter
-</td>
-</tr>
-</table>
-
-#### 🐧 Operating System
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br/>Linux
-</td>
-</tr>
-</table>
-
-#### 📊 Machine Learning Libraries
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br/>Scikit-learn
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch
-</td>
-</tr>
-</table>
-#### 🧠 Advanced AI Engineering & RAG
+#### 🤖 AI, LLMs, Agents & RAG
 
 <table>
 <tr>
@@ -172,31 +39,28 @@ Federal Urdu University of Arts, Science and Technology
 <td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="45"/><br/>LangGraph</td>
 <td align="center"><img src="https://python.langchain.com/img/brand/wordmark.png" width="45"/><br/>LangChain</td>
 <td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45"/><br/>LiteLLM</td>
 </tr>
 <tr>
-<td align="center"><img src="https://ollama.com/public/ollama.png" width="45"/><br/>Ollama</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API</td>
-<td align="center">LiteLLM</td>
+<td align="center"><img src="https://ollama.com/public/ollama.png" width="45"/><br/>Ollama</td>
 <td align="center">OpenRouter</td>
+<td align="center">FAISS</td>
+<td align="center">BM25</td>
 </tr>
 </table>
 
-**Core skills:** Multi-Agent Systems · Agent Orchestration · Tool Calling · LLM Integration · Retrieval-Augmented Generation (RAG) · Hybrid Search · BM25 · Reciprocal Rank Fusion (RRF) · Prompt Engineering · Structured Outputs · LLM Evaluation
+**Core skills:** Multi-Agent Systems · Agent Orchestration · Tool Calling · Prompt Engineering · LLM Integration · Retrieval-Augmented Generation (RAG) · Hybrid Search · Reciprocal Rank Fusion (RRF) · Structured Outputs · Document Q&A
 
-#### 🔎 Vector Search & Data Engineering
+#### 🌐 Backend & APIs
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>Redis</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/><br/>DuckDB</td>
-<td align="center">FAISS</td>
-</tr>
-<tr>
-<td align="center">BM25</td>
-<td align="center">Hybrid Retrieval</td>
-<td align="center">SQL Analytics</td>
-<td align="center">Data Pipelines</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="45"/><br/>Flask</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45"/><br/>FastAPI</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/><br/>Postman</td>
+<td align="center">REST APIs</td>
+<td align="center">Pydantic</td>
 </tr>
 </table>
 
@@ -206,59 +70,98 @@ Federal Urdu University of Arts, Science and Technology
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/><br/>Next.js</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>React</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/><br/>TypeScript</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>Tailwind CSS</td>
-</tr>
-<tr>
 <td align="center">shadcn/ui</td>
 <td align="center">Zustand</td>
 <td align="center">React Query</td>
-<td align="center">Recharts</td>
 </tr>
 </table>
 
-#### 🔐 SaaS Engineering & Security
+#### 🗄️ Databases, Vector Stores & Data Engineering
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/><br/>MongoDB</td>
+<td align="center"><img src="https://www.trychroma.com/_next/image?url=%2Fchroma-logo.svg&w=256&q=75" width="45"/><br/>ChromaDB</td>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/50197038?s=200&v=4" width="45"/><br/>Pinecone</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>Redis</td>
+<td align="center">DuckDB</td>
+</tr>
+</table>
+
+**Core skills:** SQL Analytics · Data Pipelines · Vector Search · Hybrid Retrieval · Data Validation
+
+#### 🔐 Authentication & Payments
 
 <table>
 <tr>
 <td align="center"><img src="https://clerk.com/images/logos/clerk-logo-icon.svg" width="45"/><br/>Clerk</td>
 <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="45"/><br/>Stripe</td>
-<td align="center">JWT</td>
-<td align="center">OAuth 2.0</td>
 </tr>
 </table>
 
-**Core skills:** Authentication · Role-Based Access Control (RBAC) · Subscription Billing · API Integration · Environment Configuration · Secure Secrets Management
+**Core skills:** Authentication · JWT · OAuth 2.0 · Role-Based Access Control (RBAC) · Subscription Billing · Environment Configuration · Secure Secrets Management
 
-#### ☁️ Cloud-Native Deployment & MLOps
+#### ☁️ Cloud, Deployment & DevOps
 
 <table>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker</td>
 <td align="center"><img src="https://azure.microsoft.com/svghandler/azure-logo/?width=80&height=80" width="45"/><br/>Microsoft Azure</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>Redis</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/><br/>GitHub Actions</td>
-</tr>
-<tr>
 <td align="center">Azure Container Apps</td>
 <td align="center">Azure Container Registry</td>
 <td align="center">Railway</td>
-<td align="center">CI/CD</td>
 </tr>
 </table>
+
+**Core skills:** Containerization · Cloud Deployment · CI/CD · Production Configuration · Application Deployment
 
 #### 📈 Observability, Testing & Reliability
 
 <table>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" width="45"/><br/>Sentry</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="45"/><br/>OpenTelemetry</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="45"/><br/>pytest</td>
+<td align="center">OpenTelemetry</td>
+<td align="center">pytest</td>
 </tr>
 </table>
 
-**Core skills:** Unit Testing · Integration Testing · API Testing · Error Monitoring · Logging · Metrics · Debugging · Production Troubleshooting</Modal>
+**Core skills:** Unit Testing · Integration Testing · API Testing · Logging · Metrics · Error Monitoring · Debugging · Production Troubleshooting
 
+#### 💻 Development Tools
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/><br/>VS Code</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br/>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/><br/>GitHub</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/><br/>Jupyter</td>
+</tr>
+</table>
+
+#### 🐧 Operating System
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/><br/>Linux</td>
+</tr>
+</table>
+
+#### 📊 Machine Learning & Data Science
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/><br/>Pandas</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/><br/>NumPy</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/><br/>Scikit-learn</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/><br/>TensorFlow</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/><br/>PyTorch</td>
+</tr>
+</table>
+
+**Core skills:** Exploratory Data Analysis · Predictive Modeling · Forecasting · Clustering · Anomaly Detection · Data Visualization · Model Evaluation</Modal>
 
 
 ### 💻 Projects & Coursework
