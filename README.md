@@ -164,6 +164,100 @@ Federal Urdu University of Arts, Science and Technology
 </td>
 </tr>
 </table>
+#### 🧠 Advanced AI Engineering & RAG
+
+<table>
+<tr>
+<td align="center"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="45"/><br/>CrewAI</td>
+<td align="center"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="45"/><br/>LangGraph</td>
+<td align="center"><img src="https://python.langchain.com/img/brand/wordmark.png" width="45"/><br/>LangChain</td>
+<td align="center"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/><br/>Hugging Face</td>
+</tr>
+<tr>
+<td align="center"><img src="https://ollama.com/public/ollama.png" width="45"/><br/>Ollama</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="45"/><br/>Gemini API</td>
+<td align="center">LiteLLM</td>
+<td align="center">OpenRouter</td>
+</tr>
+</table>
+
+**Core skills:** Multi-Agent Systems · Agent Orchestration · Tool Calling · LLM Integration · Retrieval-Augmented Generation (RAG) · Hybrid Search · BM25 · Reciprocal Rank Fusion (RRF) · Prompt Engineering · Structured Outputs · LLM Evaluation
+
+#### 🔎 Vector Search & Data Engineering
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/><br/>PostgreSQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>Redis</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/><br/>DuckDB</td>
+<td align="center">FAISS</td>
+</tr>
+<tr>
+<td align="center">BM25</td>
+<td align="center">Hybrid Retrieval</td>
+<td align="center">SQL Analytics</td>
+<td align="center">Data Pipelines</td>
+</tr>
+</table>
+
+#### 🌐 Full-Stack Development
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/><br/>Next.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>React</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/><br/>TypeScript</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/><br/>Tailwind CSS</td>
+</tr>
+<tr>
+<td align="center">shadcn/ui</td>
+<td align="center">Zustand</td>
+<td align="center">React Query</td>
+<td align="center">Recharts</td>
+</tr>
+</table>
+
+#### 🔐 SaaS Engineering & Security
+
+<table>
+<tr>
+<td align="center"><img src="https://clerk.com/images/logos/clerk-logo-icon.svg" width="45"/><br/>Clerk</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="45"/><br/>Stripe</td>
+<td align="center">JWT</td>
+<td align="center">OAuth 2.0</td>
+</tr>
+</table>
+
+**Core skills:** Authentication · Role-Based Access Control (RBAC) · Subscription Billing · API Integration · Environment Configuration · Secure Secrets Management
+
+#### ☁️ Cloud-Native Deployment & MLOps
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/><br/>Docker</td>
+<td align="center"><img src="https://azure.microsoft.com/svghandler/azure-logo/?width=80&height=80" width="45"/><br/>Microsoft Azure</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45"/><br/>Redis</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="45"/><br/>GitHub Actions</td>
+</tr>
+<tr>
+<td align="center">Azure Container Apps</td>
+<td align="center">Azure Container Registry</td>
+<td align="center">Railway</td>
+<td align="center">CI/CD</td>
+</tr>
+</table>
+
+#### 📈 Observability, Testing & Reliability
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" width="45"/><br/>Sentry</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opentelemetry/opentelemetry-original.svg" width="45"/><br/>OpenTelemetry</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="45"/><br/>pytest</td>
+</tr>
+</table>
+
+**Core skills:** Unit Testing · Integration Testing · API Testing · Error Monitoring · Logging · Metrics · Debugging · Production Troubleshooting</Modal>
 
 
 
